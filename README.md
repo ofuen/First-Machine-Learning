@@ -21,3 +21,5 @@ print('pandas: {}'.format(pandas.__version__))
 import sklearn
 print('sklearn: {}'.format(sklearn.__version__))
 ```
+![Alt Text](https://github.com/ofuen/First-Machine-Learning/blob/master/screenshots/2019-01-16_13-40-53.gif)
+***
