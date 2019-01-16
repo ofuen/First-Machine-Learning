@@ -30,15 +30,18 @@ print('sklearn: {}'.format(sklearn.__version__))
 ***
 
 # Univariate
->```bash
-> python UnivariatePlots.py 
->```
+```bash
+ python UnivariatePlots.py 
+```
 ![Alt Text](https://github.com/ofuen/First-Machine-Learning/blob/master/screenshots/UnivariatePlots.gif)
 ***
 * :point_up_2: [Back up](#First-Machine-Learning)
 
 
 # Multivariate
+```bash
+ python MultivariatePlots.py
+```
 ![Alt Text](https://github.com/ofuen/First-Machine-Learning/blob/master/screenshots/MultivariatePlots.gif)
 ***
 * :point_up_2: [Back up](#First-Machine-Learning)
