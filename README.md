@@ -2,8 +2,8 @@
 First Machine Learning Project in Python
 
 ### Data Visualixation
-* :rocket:[Univariate Plots](#Univariate)
-* :rocket:[Multivariate Plots](#Multivariate)
+* :chart_with_upwards_trend: [Univariate Plots](#Univariate)
+* :bar_chart: [Multivariate Plots](#Multivariate)
 ***
 # Check the versions of libraries
 ```python
@@ -31,7 +31,7 @@ print('sklearn: {}'.format(sklearn.__version__))
 
 # Univariate
 ![Alt Text](https://github.com/ofuen/First-Machine-Learning/blob/master/screenshots/UnivariatePlots.gif)
-
+***
 * :point_up_2: [Back up](#First-Machine-Learning)
 
 
