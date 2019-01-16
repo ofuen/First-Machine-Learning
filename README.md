@@ -28,6 +28,8 @@ print('sklearn: {}'.format(sklearn.__version__))
 * :rocket:[Multivariate Plots](#Multivariate)
 
 # Univariate
+![Alt Text](https://github.com/ofuen/First-Machine-Learning/blob/master/screenshots/UnivariatePlots.gif)
 
 
 # Multivariate
+![Alt Text](https://github.com/ofuen/First-Machine-Learning/blob/master/screenshots/MultivariatePlots.gif)
