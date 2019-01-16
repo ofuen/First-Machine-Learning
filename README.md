@@ -24,8 +24,8 @@ print('sklearn: {}'.format(sklearn.__version__))
 ![Alt Text](https://github.com/ofuen/First-Machine-Learning/blob/master/screenshots/2019-01-16_13-40-53.gif)
 ***
 ### Data Visualixation
-:rocket:[Univariate Plots](#Univariate)
-:rocket:[Multivariate Plots](#Multivariate)
+* :rocket:[Univariate Plots](#Univariate)
+* :rocket:[Multivariate Plots](#Multivariate)
 
 # Univariate
 
