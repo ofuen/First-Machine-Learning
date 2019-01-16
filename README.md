@@ -1,7 +1,7 @@
 # First-Machine-Learning
 First Machine Learning Project in Python
 # Check the versions of libraries
-``python
+```python
 # Python version
 import sys
 print('Python: {}'.format(sys.version))
@@ -20,4 +20,4 @@ print('pandas: {}'.format(pandas.__version__))
 # scikit-learn
 import sklearn
 print('sklearn: {}'.format(sklearn.__version__))
-``
+```
