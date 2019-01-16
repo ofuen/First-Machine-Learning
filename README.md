@@ -1,6 +1,12 @@
 # First-Machine-Learning
 First Machine Learning Project in Python
 
+You can install packages via commands such as:
+
+```bash
+python -m pip install scipy numpy matplotlib pandas sklearn
+```
+
 ### Data Visualixation
 * :chart_with_upwards_trend: [Univariate Plots](#Univariate)
 * :bar_chart: [Multivariate Plots](#Multivariate)
