@@ -7,9 +7,10 @@ First Machine Learning Project in Python
 python -m pip install scipy numpy matplotlib pandas sklearn
 ```
 
-## Data Visualixation
- - :chart_with_upwards_trend: [Univariate Plots](#Univariate)
- - :bar_chart: [Multivariate Plots](#Multivariate)
+## Table of contents
+- Data Visualixation
+ - :chart_with_upwards_trend:[Univariate Plots](#Univariate)
+ - :bar_chart:[Multivariate Plots](#Multivariate)
 ***
 # Check the versions of libraries
 ```python
