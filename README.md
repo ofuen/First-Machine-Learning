@@ -10,8 +10,8 @@ python -m pip install scipy numpy matplotlib pandas sklearn
 ## Table of contents
 
 - 🚀Data Visualixation
-  - 📒[Univariate Plots](#Univariate)
-  - 📒[Multivariate Plots](#Multivariate)
+  - 📈[Univariate Plots](#Univariate)
+  - 📊[Multivariate Plots](#Multivariate)
 ***
 # Check the versions of libraries
 ```python
