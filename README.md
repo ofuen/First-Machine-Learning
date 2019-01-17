@@ -8,9 +8,10 @@ python -m pip install scipy numpy matplotlib pandas sklearn
 ```
 
 ## Table of contents
-- Data Visualixation
- - :chart_with_upwards_trend:[Univariate Plots](#Univariate)
- - :bar_chart:[Multivariate Plots](#Multivariate)
+
+- 🚀Data Visualixation
+  - 📒[Univariate Plots](#Univariate)
+  - 📒[Multivariate Plots](#Multivariate)
 ***
 # Check the versions of libraries
 ```python
