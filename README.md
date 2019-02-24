@@ -1,5 +1,18 @@
 # First-Machine-Learning
 First Machine Learning Project in Python
+
+## You can install packages via commands such as:
+
+```bash
+python -m pip install scipy numpy matplotlib pandas sklearn
+```
+
+## Table of contents
+
+- 🚀Data Visualixation
+  - 📈[Univariate Plots](#Univariate)
+  - 📊[Multivariate Plots](#Multivariate)
+***
 # Check the versions of libraries
 ```python
 # Python version
@@ -23,11 +36,20 @@ print('sklearn: {}'.format(sklearn.__version__))
 ```
 ![Alt Text](https://github.com/ofuen/First-Machine-Learning/blob/master/screenshots/2019-01-16_13-40-53.gif)
 ***
-### Data Visualixation
-* :rocket:[Univariate Plots](#Univariate)
-* :rocket:[Multivariate Plots](#Multivariate)
 
 # Univariate
+```bash
+ python UnivariatePlots.py 
+```
+![Alt Text](https://github.com/ofuen/First-Machine-Learning/blob/master/screenshots/UnivariatePlots.gif)
+***
+* :point_up_2: [Back up](#First-Machine-Learning)
 
 
 # Multivariate
+```bash
+ python MultivariatePlots.py
+```
+![Alt Text](https://github.com/ofuen/First-Machine-Learning/blob/master/screenshots/MultivariatePlots.gif)
+***
+* :point_up_2: [Back up](#First-Machine-Learning)
