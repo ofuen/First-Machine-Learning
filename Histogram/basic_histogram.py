@@ -1,9 +1,8 @@
+import numpy as np
+import matplotlib.mlab as mlab
 import matplotlib.pyplot as plt
-%matplotlib inline
-plt.rcParams.update({'figure.figsize':(7,5), 'figure.dpi':100})
 
-# Plot Histogram on x
-x = np.random.normal(size = 1000)
-plt.hist(x, bins=50)
-plt.gca().set(title='Frequency Histogram', ylabel='Frequency');
+x = [21,22,23,4,5,6,77,8,9,10,31,32,33,34,35,36,37,18,49,50,100]
+num_bins = 5
+n, bins, patches = plt.hist(x, num_bins, facecolor='blue', alpha=0.5)
 plt.show()
