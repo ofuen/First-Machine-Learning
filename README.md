@@ -12,6 +12,7 @@ python -m pip install scipy numpy matplotlib pandas sklearn
 - 🚀Data Visualixation
   - 📈[Univariate Plots](#Univariate)
   - 📊[Multivariate Plots](#Multivariate)
+  - 📉[Matplotlib Histogram](#Matplotlib Histogram)
 ***
 # Check the versions of libraries
 ```python
@@ -53,3 +54,6 @@ print('sklearn: {}'.format(sklearn.__version__))
 ![Alt Text](https://github.com/ofuen/First-Machine-Learning/blob/master/screenshots/MultivariatePlots.gif)
 ***
 * :point_up_2: [Back up](#First-Machine-Learning)
+***
+
+# Matplotlib Histogram
